@@ -1,19 +1,19 @@
 /**
-=====================
-Welcome to xspace.finance $xSpace - New Community Driven BSC Token. Follow our Social Media and let's go MOONSHOT.
-=====================
-SOCIAL:
-t.me/xspacefinance
-twitter.com/xspacefinance
-reddit.com/r/xSpaceFinance
-======================
-TOKENOMETRICS:
- 
-TOTALSUPPLY 1000000000000000 XSPACE
-BURNED 300000000000000 XSPACE
-MARKETING 30000000000000 XSPACE
-PRE-SALE 670000000000000 XSPACE
-PRE-SALE on DxSale
+* =====================
+* Welcome to xspace.finance $xSpace - New Community Driven BSC Token. Follow our Social Media and let's go MOONSHOT.
+* =====================
+* SOCIAL:
+* t.me/xspacefinance
+* twitter.com/xspacefinance
+* reddit.com/r/xSpaceFinance
+* ======================
+* TOKENOMETRICS:
+*  
+* TOTALSUPPLY 1000000000000000 XSPACE
+* BURNED 300000000000000 XSPACE
+* MARKETING 30000000000000 XSPACE
+* PRE-SALE 670000000000000 XSPACE
+* PRE-SALE on DxSale
 **/
 pragma solidity ^0.6.12;
 // SPDX-License-Identifier: Unlicensed

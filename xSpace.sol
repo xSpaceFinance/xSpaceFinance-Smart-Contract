@@ -11,7 +11,7 @@
 *  
 * TOTALSUPPLY 1000000000000000 XSPACE
 * BURNED 30% XSPACE
-* MARKETING 3% XSPACE
+* MARKETING 3% XSPACE (Check Exact Marketing Token Amount on our website)
 * PRE-SALE 67% XSPACE
 * PRE-SALE on DxSale
 **/

@@ -7,7 +7,7 @@
 * twitter.com/xspacefinance
 * reddit.com/r/xSpaceFinance
 * ======================
-* TOKENOMETRICS:
+* TOKENOMICS:
 *  
 * TOTALSUPPLY 1000000000000000 XSPACE
 * BURNED 300000000000000 XSPACE
